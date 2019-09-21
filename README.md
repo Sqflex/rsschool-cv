@@ -1,3 +1,3 @@
 # rsschool-cv
 
-Some link..
+[Golubev Egor](https://sqflex.github.io/rsschool-cv/cv)
