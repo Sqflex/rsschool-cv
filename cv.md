@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-I have spent the last two years developing my skills as developer, but dont even found my own way in the world of programming languages. All my friends know me as patience, kind and responsible person. I have one secret ability - to learn fast and it makes my life more easier in a lot of hobbies.
+I have spent the last two years developing my skills as developer, but dont even found my own way in the world of programming languages. All my friends know me as patient, kind and responsible person. I have one secret ability - to learn fast and it makes my life more easier in a lot of hobbies.
 
 ## **Skills**
 
