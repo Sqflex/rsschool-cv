@@ -1,4 +1,7 @@
 # **Golubev Egor**
+
+![My photo](https://sun9-47.userapi.com/c849328/v849328980/199ac5/DxIO2cNYVpo.jpg)
+
 ## **Contacts**
 * _Telephone and messengers(Telegram,Viber)_: +375447387513
 * _Email_: egorkazgorki2@gmail.com
@@ -63,5 +66,5 @@ Code Sample from my old java project:
 
 ## English level
 
-B1 or Intermediate
+B1 or Intermediate.
 
